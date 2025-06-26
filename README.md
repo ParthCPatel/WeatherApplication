@@ -13,9 +13,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Scripts](#scripts)
-- [Key Dependencies](#key-dependencies)
-- [License](#license)
+
 
 ## Features
 
